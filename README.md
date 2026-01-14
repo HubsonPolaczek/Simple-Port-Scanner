@@ -4,7 +4,6 @@ Proste i skuteczne narzędzie konsolowe do diagnostyki sieciowej. Pozwala na szy
 
 ## 📸 Demo
 ![Screenshot](screenshot.png)
-*(Tu upewnij się, że nazwa pliku obrazka się zgadza)*
 
 ## 🚀 Funkcjonalności
 - Skanowanie kluczowych portów (FTP, SSH, HTTP, HTTPS, RDP, SQL).
